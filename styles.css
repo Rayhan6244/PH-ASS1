@@ -234,10 +234,14 @@ li::marker {
     justify-content: center;
 }
 
-.blackie {
-    display: grid;
+/* .blackie {
+    max-width: 360px;
     background-color: #0D1B2A;
-}
+    border: 1px solid #E5E7EB;
+    border-radius: 15px;
+    padding: 20px;
+    display: grid;
+} */
 
 .pro {
     display: grid;
