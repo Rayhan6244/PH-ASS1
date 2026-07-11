@@ -99,12 +99,15 @@ header {
     margin: 0 auto 80px auto;
     padding: 0 20px;
     box-sizing: border-box;
+    justify-content: space-between;
+    text-align: justify;
+    width: 5900px;
 }
 
 .for-all {
     background: #ffffff;
     border: 1px solid #E5E7EB;
-    border-radius: 2px;
+    border-radius: 10px;
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -121,6 +124,8 @@ header {
     text-align: left;
     font-family: "Inter", sans-serif;
     box-sizing: border-box;
+    justify-content: space-between;
+    text-align: justify;
 }
 
 .job {
@@ -150,3 +155,8 @@ header {
     margin: 0;
     font-family: "Inter", sans-serif;
 }
+
+/* .parent {
+    display: flex;
+    gap: 20px;
+} */
