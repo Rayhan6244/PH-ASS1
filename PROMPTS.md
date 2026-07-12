@@ -1,0 +1,1 @@
+hey claude, this is my figma picture. Here is a section called "Something Missing?" So your work is to find the best match page for this web application. After that please generate a proper html, css for the application. Point to be noted: you have to keep the ui clear as the other page.

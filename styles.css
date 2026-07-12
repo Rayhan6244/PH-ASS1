@@ -80,7 +80,14 @@ header {
     top: 800px;
     height: 55px;
     width: 140px;
+    text-align: center;
 }
+
+/* .div {
+    display: flex;
+    text-align: center;
+    padding: 2% right;
+} */
 
 .aro-lagbe {
     text-align: center;
